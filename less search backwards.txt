@@ -1,0 +1,9 @@
+The man page for less states the syntax is less +?pattern filename
+
+less '+?test' filename
+
+or
+less filename
+?test
+
+
